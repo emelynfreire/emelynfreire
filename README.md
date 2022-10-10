@@ -15,9 +15,9 @@ I am interested in areas related to computer and electrical engineering, informa
 - Configuration Management with GIT
 
 💞️ CURRENTLY
--Information Technology Resident at UFRN.
--Computer Engineering student at UFRN.
--President Student's Union of Computer Engineering from UFRN (CAECOMP UFRN)
+- Information Technology Resident at UFRN.
+- Computer Engineering student at UFRN.
+- President Student's Union of Computer Engineering from UFRN (CAECOMP UFRN)
 
 
 
